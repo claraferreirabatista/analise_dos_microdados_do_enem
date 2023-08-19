@@ -31,11 +31,11 @@ Siga os passos abaixo para acessar e clonar o repositório em sua máquina:
 
 1. Abra o terminal ou prompt de comando.
 
-2. Navegue até o diretório onde deseja armazenar o projeto usando o comando `cd tecnicas_de_programacao_I`.
+2. Navegue até o diretório onde deseja armazenar o projeto usando o comando `cd analise_dos_microdados_do_enem`.
 
 3. Clone o repositório executando o seguinte comando:
    ```
-   git clone https://github.com/claraferreirabatista/tecnicas_de_programacao_I.git
+   git clone https://github.com/claraferreirabatista/analise_dos_microdados_do_enem.git
    ```
 
 
