@@ -1,3 +1,4 @@
+
 # Projeto: Análise dos Microdados do Enem - Impacto da COVID-19 na Região Centro-Oeste
 
 Este é o repositório do projeto "Análise dos Microdados do Enem" desenvolvido pelo Grupo 7, que tem como objetivo analisar o impacto da COVID-19 nos números do Exame Nacional do Ensino Médio (Enem) na região Centro-Oeste do Brasil, abrangendo os anos de 2018 a 2022. O projeto utiliza as técnicas de programação aprendidas na disciplina de Técnicas de Programação I.
@@ -38,7 +39,15 @@ Siga os passos abaixo para acessar e clonar o repositório em sua máquina:
    git clone https://github.com/claraferreirabatista/analise_dos_microdados_do_enem.git
    ```
 
+4. Navegue até o diretório clonado:
+   ```
+   cd analise_dos_microdados_do_enem
+   ```
 
+5. Instale as dependências listadas no arquivo "requirements.txt":
+   ```
+   pip install -r requirements.txt
+   ```
 
 ## Executando o Projeto
 
@@ -87,4 +96,7 @@ Se você deseja contribuir para este projeto:
 
 5. Abra um Pull Request neste repositório.
 
+## Licença
+
+Este projeto é licenciado sob a [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html). Para obter mais informações, consulte o arquivo [LICENSE](LICENSE).
 
