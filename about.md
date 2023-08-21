@@ -101,3 +101,5 @@ Nesta seção, destacamos as principais dificuldades, aprendizados e pontos posi
 - Exploração de análises mais avançadas e detalhadas em futuros projetos.
 
 Este projeto oferece uma visão abrangente das tendências e características dos participantes do ENEM, permitindo uma compreensão mais profunda de como fatores como pandemia, tipo de escola, língua estrangeira e outras variáveis impactam os resultados dos alunos.
+
+Nosso brainstorm: https://docs.google.com/document/d/1glOZW6rd96mHSCWUo1fBT1F2LVegyK3n_5nuEmWe9aw/edit?usp=sharing

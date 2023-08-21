@@ -1,6 +1,6 @@
 # Projeto: Análise dos Microdados do Enem - Impacto da COVID-19 na Região Centro-Oeste
 
-Este é o repositório do projeto "Análise dos Microdados do Enem" desenvolvido pelo Grupo 7, que tem como objetivo analisar o impacto da COVID-19 nos números do Exame Nacional do Ensino Médio (Enem) na região Centro-Oeste do Brasil, abrangendo os anos de 2018 a 2022. O projeto utiliza as técnicas de programação aprendidas na disciplina de Técnicas de Programação I.
+Este é o repositório do projeto "Análise dos Microdados do Enem" desenvolvido pelo Grupo 7, que tem como objetivo analisar o impacto da COVID-19 nos números do Exame Nacional do Ensino Médio (Enem) na região Centro-Oeste do Brasil, abrangendo os anos de 2018 a 2022. O projeto utiliza as técnicas de programação aprendidas na disciplina de Técnicas de Programação I. Ministrada pelos professores- orientadores Alex Lima, Mauricio Sobrinho.
 
 ## Membros
 **Clara Ferreira Batista**
@@ -86,6 +86,33 @@ Esta análise dos dados do ENEM na região Centro-Oeste oferece insights valioso
 - Biblioteca Seaborn: [Documentação do Seaborn](https://seaborn.pydata.org/documentation.html)
 - Biblioteca Matplotlib: [Documentação do Matplotlib](https://matplotlib.org/stable/contents.html)
 - Biblioteca Plotly: [Documentação do Plotly](https://plotly.com/python/)
+
+Claro, vou te ajudar a escrever as instruções para adicionar ao seu arquivo README, explicando como abrir o projeto no Google Colab. Aqui está um exemplo:
+
+## Como Abrir o Projeto no Google Colab
+
+O nosso projeto inclui um notebook Jupyter chamado `tecnicas_programacao_Grupo7.ipynb`, que pode ser facilmente acessado e executado no Google Colab, uma plataforma baseada na nuvem para edição e execução de notebooks.
+
+Para abrir o projeto no Google Colab, siga os passos abaixo:
+
+1. **Clique no link do notebook:** Acesse o seguinte link para o notebook: [tecnicas_programacao_Grupo7.ipynb](https://colab.research.google.com/drive/1Dvoo4R0OyZW1Uye7wTNjK2uOncb6EixH?usp=sharing). Isso irá direcionar você para a página do Google Colab com o notebook carregado.
+
+2. **Fazer login na sua conta do Google:** Se você não estiver logado na sua conta do Google, será solicitado que faça o login ou crie uma conta.
+
+3. **Copiar o notebook para o seu Google Drive:** Depois de acessar o notebook, vá em "Arquivo" no menu superior e selecione "Salvar uma cópia no Google Drive". Isso criará uma cópia do notebook na sua conta do Google Drive, permitindo que você faça alterações sem afetar o notebook original.
+
+4. **Explorar e executar o notebook:** Com o notebook aberto no Google Colab, você pode explorar o código, fazer alterações e executar as células de código. Para executar uma célula, clique no botão "Play" à esquerda da célula ou pressione Shift + Enter.
+
+5. **Salvar suas alterações:** O Google Colab salva automaticamente suas alterações à medida que você trabalha no notebook. No entanto, é sempre uma boa prática salvar manualmente ocasionalmente para garantir que suas alterações sejam mantidas.
+
+Lembre-se de que o Google Colab é uma ferramenta poderosa para colaboração e execução de código, permitindo que você trabalhe no projeto de qualquer lugar, desde que tenha acesso à internet e uma conta do Google.
+
+Caso você deseje salvar uma cópia do notebook com as suas alterações em um momento posterior, basta repetir o passo 3.
+
+Aproveite a exploração do nosso projeto utilizando o Google Colab! Se você tiver dúvidas, sinta-se à vontade para entrar em contato com a equipe.
+
+**Link para o notebook:** [tecnicas_programacao_Grupo7.ipynb](https://colab.research.google.com/drive/1Dvoo4R0OyZW1Uye7wTNjK2uOncb6EixH?usp=sharing)
+
 
 ## Licença
 
