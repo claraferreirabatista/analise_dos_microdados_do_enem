@@ -1,4 +1,3 @@
-
 # Projeto: Análise dos Microdados do Enem - Impacto da COVID-19 na Região Centro-Oeste
 
 Este é o repositório do projeto "Análise dos Microdados do Enem" desenvolvido pelo Grupo 7, que tem como objetivo analisar o impacto da COVID-19 nos números do Exame Nacional do Ensino Médio (Enem) na região Centro-Oeste do Brasil, abrangendo os anos de 2018 a 2022. O projeto utiliza as técnicas de programação aprendidas na disciplina de Técnicas de Programação I.
@@ -73,30 +72,22 @@ Para rodar o projeto em sua máquina, siga estas etapas:
 
 7. Siga as instruções e comentários dentro do notebook para executar a análise completa dos microdados do Enem e investigar o impacto da COVID-19 na região Centro-Oeste.
 
-## Contribuindo
+## Análise de Dados Gerais
 
-Se você deseja contribuir para este projeto:
+O código a seguir realiza uma análise detalhada dos dados do ENEM, explorando diferentes aspectos e tendências relevantes. A análise é dividida em várias seções, cada uma abordando uma perspectiva específica dos dados.
 
-1. Faça um fork deste repositório.
+## Conclusão
 
-2. Crie uma branch para sua contribuição:
-   ```
-   git checkout -b feature/sua-feature
-   ```
+Esta análise dos dados do ENEM na região Centro-Oeste oferece insights valiosos sobre os participantes, suas características e comportamentos ao longo dos anos, além de investigar o impacto da COVID-19 nos resultados. A compreensão dessas tendências pode contribuir para uma visão mais completa do cenário educacional e auxiliar em tomadas de decisões futuras.
 
-3. Faça suas alterações e commit:
-   ```
-   git commit -m "Adicione sua mensagem de commit aqui"
-   ```
+## Referências
 
-4. Envie suas alterações para o GitHub:
-   ```
-   git push origin feature/sua-feature
-   ```
-
-5. Abra um Pull Request neste repositório.
+- Dados do ENEM: [Link para os dados](https://exemplo.com/link-para-os-dados)
+- Biblioteca Pandas: [Documentação do Pandas](https://pandas.pydata.org/docs/)
+- Biblioteca Seaborn: [Documentação do Seaborn](https://seaborn.pydata.org/documentation.html)
+- Biblioteca Matplotlib: [Documentação do Matplotlib](https://matplotlib.org/stable/contents.html)
+- Biblioteca Plotly: [Documentação do Plotly](https://plotly.com/python/)
 
 ## Licença
 
 Este projeto é licenciado sob a [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html). Para obter mais informações, consulte o arquivo [LICENSE](LICENSE).
-
