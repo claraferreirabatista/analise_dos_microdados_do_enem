@@ -2,5 +2,6 @@ matplotlib>=3.7
 numpy>=1.21
 pandas>=2.0
 plotly>=5.16
+protobuf>=3.12
 scipy>=1.8
 seaborn>=0.12
