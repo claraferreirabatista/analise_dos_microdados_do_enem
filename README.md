@@ -82,7 +82,6 @@ Esta análise dos dados do ENEM na região Centro-Oeste oferece insights valioso
 
 ## Referências
 
-- Dados do ENEM: [Link para os dados](https://exemplo.com/link-para-os-dados)
 - Biblioteca Pandas: [Documentação do Pandas](https://pandas.pydata.org/docs/)
 - Biblioteca Seaborn: [Documentação do Seaborn](https://seaborn.pydata.org/documentation.html)
 - Biblioteca Matplotlib: [Documentação do Matplotlib](https://matplotlib.org/stable/contents.html)
