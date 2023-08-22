@@ -2,7 +2,7 @@
 
 Este é o repositório do projeto "Análise dos Microdados do Enem" desenvolvido pelo Grupo 7, que tem como objetivo analisar o impacto da COVID-19 nos números do Exame Nacional do Ensino Médio (Enem) na região Centro-Oeste do Brasil, abrangendo os anos de 2018 a 2022. O projeto utiliza as técnicas de programação aprendidas na disciplina de Técnicas de Programação I. Ministrada pelos professores- orientadores Alex Lima e Mauricio Sobrinho.
 
-Para entender, mais sobre o foco do nosso projeto [Clique Aqui](about.md) e seja direcionado para o About, uma explanação de todos os pontos que são analisados e nossas conclusões.
+Para entender mais sobre o foco do nosso projeto [Clique Aqui](about.md) e seja direcionado para o About, uma explanação de todos os pontos que são analisados e nossas conclusões.
 
 
 ## Membros
@@ -17,7 +17,7 @@ Para entender, mais sobre o foco do nosso projeto [Clique Aqui](about.md) e seja
 
 **[Rafael Couto de Oliveira](https://www.linkedin.com/in/couto21/)**
 
-**Gostou do projeto? Ou quer contribuir, nos siga no Linkedin**
+**Gostou do projeto? Siga a gente no Linkedin e mande mensagem**
 
 ## Arquivo Central
 
