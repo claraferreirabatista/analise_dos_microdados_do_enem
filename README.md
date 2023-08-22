@@ -95,7 +95,7 @@ O nosso projeto inclui um notebook Jupyter chamado `tecnicas_programacao_Grupo7.
 
 Para abrir o projeto no Google Colab, siga os passos abaixo:
 
-1. **Clique no link do notebook:** Acesse o seguinte link para o notebook: [tecnicas_programacao_Grupo7.ipynb](https://colab.research.google.com/drive/1Dvoo4R0OyZW1Uye7wTNjK2uOncb6EixH?usp=sharing). Isso irá direcionar você para a página do Google Colab com o notebook carregado.
+1. **Clique no link do notebook:** Acesse o seguinte link para o notebook: [tecnicas_programacao_Grupo7.ipynb](https://colab.research.google.com/drive/10k9nKpVW26KUpBbKCHX-QYnlbcsXs1dJ?usp=sharing). Isso irá direcionar você para a página do Google Colab com o notebook carregado.
 
 2. **Fazer login na sua conta do Google:** Se você não estiver logado na sua conta do Google, será solicitado que faça o login ou crie uma conta.
 
@@ -111,7 +111,7 @@ Caso você deseje salvar uma cópia do notebook com as suas alterações em um m
 
 Aproveite a exploração do nosso projeto utilizando o Google Colab! Se você tiver dúvidas, sinta-se à vontade para entrar em contato com a equipe.
 
-**Link para o notebook:** [tecnicas_programacao_Grupo7.ipynb](https://colab.research.google.com/drive/1Dvoo4R0OyZW1Uye7wTNjK2uOncb6EixH?usp=sharing)
+**Link para o notebook:** [tecnicas_programacao_Grupo7.ipynb](https://colab.research.google.com/drive/10k9nKpVW26KUpBbKCHX-QYnlbcsXs1dJ?usp=sharing)
 
 
 ## Licença
